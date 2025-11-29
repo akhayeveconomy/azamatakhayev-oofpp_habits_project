@@ -1,4 +1,4 @@
-"""Infrastructure module for working with the database."""
+"""Module for working with database."""
 
 from .db import init_db
 
