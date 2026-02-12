@@ -49,5 +49,5 @@ Completions table
 - completed_at (TEXT)
 
 #How to Run
-> pip install pytest
-> python -m habit_tracker.cli
+- > pip install pytest
+- > python -m habit_tracker.cli
